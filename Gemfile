@@ -43,3 +43,5 @@ group :production do
 gem 'pg', '0.12.2'
 end
 gem 'bootstrap-sass', '2.0.0'
+gem 'annotate'
+gem 'bcrypt-ruby', '3.0.1'
